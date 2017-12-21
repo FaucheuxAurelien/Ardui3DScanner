@@ -1,2 +1,9 @@
 # Ardui3DScanner
-Un scanner d'objets pour générer des modèles 3d.
+
+* 21 Dec. 2017 *
+    - Création du GitHub
+    - Création des fichiers :
+        src/FileCreator.java
+        ScannerController.java
+    - Importation de la librairie Java RXTXcomm
+
